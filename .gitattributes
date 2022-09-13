@@ -1,3 +1,0 @@
-.hdf5 filter=lfs diff=lfs merge=lfs -text
-bestmodel2.hdf filter=lfs diff=lfs merge=lfs -text
-bestmodel2.hdf5 filter=lfs diff=lfs merge=lfs -text
