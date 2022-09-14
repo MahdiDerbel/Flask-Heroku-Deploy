@@ -93,7 +93,7 @@ highered==0.2.1
 notebook==6.4.7
 numba==0.55.1
 numpy==1.16
-ensorflow==2.8.0
+tensorflow==2.8.0
 tensorflow-addons==0.16.1
 tensorflow-datasets==4.5.2
 tensorflow-estimator==2.4.0
