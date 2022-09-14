@@ -380,7 +380,6 @@ simplecosine==1.2
 sip==4.19.8
 six==1.15.0
 slicer==0.0.7
--e git+https://github.com/tensorflow/models@829495229335176ab6ad1a6323f75542f977c90b#egg=slim&subdirectory=research\slim
 smart-open==5.2.1
 smmap==5.0.0
 sniffio==1.2.0
