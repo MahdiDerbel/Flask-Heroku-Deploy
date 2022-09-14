@@ -88,7 +88,7 @@ haversine==2.5.1
 hdfs==2.7.0
 helper==2.5.0
 notebook==6.4.7
-numpy==1.7
+numpy==1.20
 tensorflow==2.8.0
 tensorflow-addons==0.16.1
 tensorflow-datasets==4.5.2
