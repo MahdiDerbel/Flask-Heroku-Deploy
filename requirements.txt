@@ -472,7 +472,6 @@ shap==0.40.0
 Shapely==1.8.1.post1
 shellcheck-py==0.8.0.4
 simplecosine==1.2
-sip==4.19.8
 six==1.15.0
 slicer==0.0.7
 smart-open==5.2.1
