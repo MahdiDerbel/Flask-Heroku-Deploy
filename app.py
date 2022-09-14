@@ -1,12 +1,8 @@
 from __future__ import division, print_function
 # coding=utf-8
-import sys
 import os
-import glob
-import re
 import numpy as np
 import librosa
-from sklearn.preprocessing import  StandardScaler
 from flask import Flask
 from flask_cors import CORS
 from flask import jsonify
