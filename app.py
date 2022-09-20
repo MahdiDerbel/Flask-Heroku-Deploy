@@ -27,6 +27,7 @@ model = load_model(MODEL_PATH)
 #model._make_predict_function()   
 model.summary()       # Necessary
 # print('Model loaded. Start serving...')
+import soundfile as sndfile
 
 # You can also use pretrained model from Keras
 #Check https://keras.io/applications/
