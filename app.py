@@ -25,7 +25,7 @@ MODEL_PATH = "bestmodel2.hdf5"
 # Load your trained model
 #model = load_model(MODEL_PATH)
 #model._make_predict_function()   
-model.summary()       # Necessary
+#model.summary()       # Necessary
 # print('Model loaded. Start serving...')
 import soundfile as sndfile
 
