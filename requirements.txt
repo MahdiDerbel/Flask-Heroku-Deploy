@@ -32,7 +32,6 @@ Markdown==3.4.1
 MarkupSafe==2.1.1
 numba==0.56.2
 numpy==1.21.6
-tensorflow_intel==2.10.0
 oauthlib==3.2.1
 opt-einsum==3.3.0
 packaging==21.3
